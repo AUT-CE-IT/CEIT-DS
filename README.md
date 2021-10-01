@@ -1,2 +1,2 @@
-# CE203
+# CE203-DS
 Data Structures and Algorithms (DS)
